@@ -2,7 +2,7 @@
 
 ## 这个仓库什么也不能做，请不要盯着我。
 
-### VSCode 配置：
+### VSCode 配置： 
 
 ```json
     "github.copilot.advanced": {
